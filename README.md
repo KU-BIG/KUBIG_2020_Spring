@@ -3,19 +3,19 @@
 ## Timeline  
 | 일정                    |  일자 | 비고                                |
 | ------------------- | -------------|-------------------------- |
-| **OT** | 3/12(목) | 19:00 / *불참시 합격 취소의 사유가 됩니다.* |
-| 1st 세션 | 9/19(목) | 19:00 / Introduction to Machine Learning with Titanic Dataset |
-| **MT** | 3/20(금) ~ 3/21(토) | *코로나 진행현황에 따라 취소 가능합니다 .*|
-| 2nd 세션 | 3/26(목) | 19:00 / Data Science and Computer Vision |
-| 3rd 세션 | 4/02(목) | 19:00 / Natural Language Processing and Reinforcement Learning  |
-| 4th 세션 | 4/09(목) | 19:00 / 2020 Spring Project Outline Presentation & **TEST** |
-| Midterm break | 4/16(목) ~ 4/23(목) |        |
-| 5th 세션 | 4/29(수) or 5/01(금) | 19:00 / 프로젝트 계획, 진행상황 발표 |
-| 6th 세션 | 5/07(목) | 19:00 / 중간점검1 |
-| 7th 세션 | 5/15(금) | 19:00 / 홈커밍, 중간점검2 |
-| 8th 세션 | 5/21(목) | 19:00 / 심화알고리즘 1 |
-| 9th 세션 | 5/28(목) | 19:00 / 심화알고리즘 2 |
-| 10th 세션 | 6/04(목) | 19:00 / 최종발표 |
+| **OT** | 3/19(목) | 19:00 / *불참시 합격 취소의 사유가 됩니다.* |
+| 1st 세션 | 3/26(목) | 19:00 / Introduction to Machine Learning with Titanic Dataset |
+| **MT** | 3/27(금) ~ 3/28(토) | *코로나 진행현황에 따라 취소 가능합니다 .*|
+| 2nd 세션 | 4/02(목) | 19:00 / Data Science |
+| 3rd 세션 | 4/09(목) | 19:00 / Deep Learning and Computer Vision  |
+| 4th 세션 | 4/16(목) | 19:00 / Natural Language Processing and 2020 Spring Project Outline Presentation |
+| 5th 세션 | 4/23(목) | 19:00 / 중간점검 1 |
+| Midterm break | 4/30(목) ~ 5/07(목) |        |
+| 6th 세션 | 5/16(토) | 19:00 / 와이빅타 교류세미나|
+| 7th 세션 | 5/22(금) | 19:00 / 홈커밍, 중간점검2 |
+| 8th 세션 | 5/28(목) | 19:00 / 심화알고리즘 1 |
+| 9th 세션 | 6/04(목) | 19:00 / 심화알고리즘 2 |
+| 10th 세션 | 6/11(목) | 19:00 / 최종발표 |
 
 -----------------------------------------------------
 ## Tutorial
