@@ -41,7 +41,7 @@
 
 -----------------------------------------------------
 <p align="center">
-<![KakaoTalk_20200226_101902853](https://user-images.githubusercontent.com/49232148/75302601-a32ecc00-5881-11ea-8fb8-1bfc2da36ddf.jpg)>
+  ![KakaoTalk_20200226_101902853](https://user-images.githubusercontent.com/49232148/75302601-a32ecc00-5881-11ea-8fb8-1bfc2da36ddf.jpg)
 </p>
 
 
@@ -58,11 +58,11 @@
 
 -----------------------------------------------------
 ## Contact
-github admin : yeeunsong1019@gmail.com
+github admin : yeeunsong1019@gmail.com  
 facebook page : https://www.facebook.com/kubigdata  
-instagram page : https://www.instagram.com/kubig.official
-질의응답 링크 : https://asked.kr/kubigkorea
+instagram page : https://www.instagram.com/kubig.official   
+질의응답 링크 : https://asked.kr/kubigkorea   
 회장단 : 정재원, 송예은  
-학술부 : 김근호, 김미라, 권지혜, 이은진, 김민석, 최성웅, 박진우, 이영신, 조규선
-대외부 : 허찬, 전혜민, 김은하
+학술부 : 김근호, 김미라, 권지혜, 이은진, 김민석, 최성웅, 박진우, 이영신, 조규선   
+대외부 : 허찬, 전혜민, 김은하    
  
