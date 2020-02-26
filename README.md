@@ -41,7 +41,7 @@
 
 -----------------------------------------------------
 <p align="center">
-![KakaoTalk_20200226_101902853](https://user-images.githubusercontent.com/49232148/75302601-a32ecc00-5881-11ea-8fb8-1bfc2da36ddf.jpg)
+<![KakaoTalk_20200226_101902853](https://user-images.githubusercontent.com/49232148/75302601-a32ecc00-5881-11ea-8fb8-1bfc2da36ddf.jpg)>
 </p>
 
 
