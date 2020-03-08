@@ -3,8 +3,7 @@
 ## Timeline  
 | 일정                    |  일자 | 비고                                |
 | ------------------- | -------------|-------------------------- |
-| **OT** | 3/19(목) | 19:00 / *불참시 합격 취소의 사유가 됩니다.* |
-| 1st 세션 | 3/26(목) | 19:00 / Introduction to Machine Learning with Titanic Dataset |
+| 1st 세션 | 3/26(목) | 19:00 / **OT** & Introduction to Machine Learning with Titanic Dataset |
 | **MT** | 3/27(금) ~ 3/28(토) | *코로나 진행현황에 따라 취소 가능합니다 .*|
 | 2nd 세션 | 4/02(목) | 19:00 / Data Science |
 | 3rd 세션 | 4/09(목) | 19:00 / Deep Learning and Computer Vision  |
