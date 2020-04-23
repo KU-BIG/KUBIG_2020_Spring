@@ -1,7 +1,7 @@
 ## Data Analysis Challenge
 
 04/23 (목) 시험 대체 과제      
-- Dataset: [Iris Species](https://www.kaggle.com/uciml/iris/kernels)   
+- Dataset: [Iris Species](https://www.kaggle.com/uciml/iris)   
 - 위 링크 들어가서 Data download 후 분석 진행   
 - 위 과제는 프로젝트 조 편성에 참고사항이 됩니다.   
     
