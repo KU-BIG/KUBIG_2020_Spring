@@ -8,7 +8,7 @@
 | 3rd 세션 | 4/16(목) | 19:00 / Deep Learning and Computer Vision  |
 | 4th 세션 | 4/23(목) | 19:00 / Natural Language Processing and 2020 Spring Project Outline Presentation |
 | Midterm break | 4/30(목) ~ 5/07(목) |        |
-| 5th 세션 | 5/14(목) | 19:00 / 교수님 특강, 프로젝트 계획발표|
+| 5th 세션 | 5/14(목) | 19:00 / 프로젝트 계획발표|
 | 6th 세션 | 5/22(금) | 19:00 / 홈커밍, 프로젝트 중간점검 |
 | 7th 세션 | 5/28(목) | 19:00 / 심화알고리즘 1 |
 | 8th 세션 | 6/04(목) | 19:00 / 심화알고리즘 2 |
